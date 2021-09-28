@@ -54,7 +54,7 @@ public class AllStudentsPrinter {
                     System.out.println("Kurs: " + d.getCourse().getName());
                 }
             }
-            System.out.println("_________________________________________");
+            System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
         }
         System.out.println();
     }
