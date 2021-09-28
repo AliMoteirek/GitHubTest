@@ -7,9 +7,9 @@ public class AllStudentsPrinter {
 
     public AllStudentsPrinter() {
 
-        Student ali = new Student("Mazen Moteirek" , "123123") ;
-        Student erik = new Student("Jimmy Eriksson", "147975") ;
-        Student sara = new Student("Sandra Olsson" , "334455") ;
+        Student ali = new Student("Ali Moteirek" , "123123") ;
+        Student erik = new Student("Erik Eriksson", "147975") ;
+        Student sara = new Student("Sara Olsson" , "334455") ;
 
         List<Student> allStudents = new ArrayList<>();
         allStudents.add(ali) ;
